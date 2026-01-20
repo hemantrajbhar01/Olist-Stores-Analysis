@@ -1,4 +1,3 @@
-
 # 🛒 E-commerce Olist Store Analysis
 
 An end-to-end data analysis project on the **Brazilian Olist e-commerce dataset**, focused on uncovering insights related to sales performance, customer behavior, delivery efficiency, and seller activity.
@@ -109,7 +108,7 @@ Tableau
 ## 👤 Author
 
 **Hemant Rajbhar**
-Aspiring Data Analyst | Python | SQL | Data Visualization
+Aspiring Data Analyst | Advance Excel| SQL | Power BI | Tableau | Data Visualization
 
 
 
