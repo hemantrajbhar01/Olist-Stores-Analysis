@@ -2,8 +2,6 @@
 
 An end-to-end data analysis project on the **Brazilian Olist e-commerce dataset**, focused on uncovering insights related to sales performance, customer behavior, delivery efficiency, and seller activity.
 
-This project simulates a real-world business analytics workflow using Python and Jupyter Notebooks.
-
 ---
 
 ## 📌 Project Overview
